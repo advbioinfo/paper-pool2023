@@ -36,6 +36,7 @@ Last Modified: 2023-09-06 20:59:05
 2. salmon [paper](https://www.nature.com/articles/nmeth.4197), [github](https://github.com/COMBINE-lab/salmon), [homepage](https://combine-lab.github.io/salmon/)
 3. Oases [paper](https://academic.oup.com/bioinformatics/article/28/8/1086/195757), [github](https://github.com/dzerbino/oases)
 4. CellChat [paper](https://www.nature.com/articles/s41467-021-21246-9#Sec12), [github](https://github.com/sqjin/CellChat)
+5. rMATs [paper](https://www.pnas.org/doi/full/10.1073/pnas.1419161111), [github](https://github.com/Xinglab/rmats-turbo)
 
 ## Metagenomics
 1. kraken-uniq [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1568-0), [github](https://github.com/fbreitwieser/krakenuniq)
